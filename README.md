@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Felipe González
 
-<!--
-**ToxicPipe/ToxicPipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web fullstack.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS (Tailwind CSS), JavaScript (Jquery, Typescript), React
+- **Backend:** PHP, C#, Java
+- **Bases de Datos:** PostgreSQL, SQL Server, MySQL
+- **Soporte técnico y administración:**  
+  - Directorio Activo, configuración de dominios, DNS, permisos de carpetas, backups, NAS  
+  - Soporte en sitio, configuración de impresoras, cableado e infraestructura  
+
+## 🎯 Objetivos
+
+- Busco oportunidades laborales como desarrollador web donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
+
+## 📫 Cómo contactarme
+
+- 📞 +57 314 363 4742  
+- 📧 ingeniero.softwarefg@gmail.com  
+
+---
+
+¡Gracias por visitar mi perfil! Estoy abierto a nuevas conexiones y colaboraciones. 🚀
